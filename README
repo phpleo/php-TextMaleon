@@ -1,0 +1,6 @@
+== TextMaleon ==
+
+Simple framework for parser any text format (wiki, bbcode. etc)
+to xhtml for example.
+
+The motivation is for complete the [vpWikiPlugin http://github.com/phpleo/vpWikiPlugin]
